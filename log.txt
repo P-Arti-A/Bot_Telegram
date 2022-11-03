@@ -166,3 +166,2260 @@ INFO 11/02/2022 18:08:38 - ID:1012234996, Garra(GarraHT), исп. команду
 INFO 11/02/2022 18:08:40 - ID:1012234996, Garra(GarraHT), в Кости = 2
 INFO 11/02/2022 18:08:59 - ID:1012234996, Garra(GarraHT), исп. команду: /notification
 INFO 11/02/2022 18:10:25 - ID:401633059, Артём(p_arti_a), исп. команду: /notification
+INFO 11/03/2022 16:25:25 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 16:25:25 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 16:54:42 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 16:54:44 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 16:54:44 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 16:54:50 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 16:54:50 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 16:54:50 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 16:54:55 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 16:55:00 - ID:401633059, Артём(p_arti_a), написал: 🎰 Однорукий Бандит
+INFO 11/03/2022 16:55:02 - ID:401633059, Артём(p_arti_a), написал: 🎲 Рулетка
+INFO 11/03/2022 16:55:03 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 16:55:03 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 16:55:20 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 16:55:22 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 16:55:22 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 16:55:26 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 16:55:26 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 16:55:26 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 16:55:28 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 16:58:58 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 16:59:17 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 17:09:01 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 17:09:02 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 17:09:03 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 17:09:03 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 17:09:05 - ID:401633059, Артём(p_arti_a), написал: partia
+INFO 11/03/2022 17:09:05 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы не указали разделитель!
+INFO 11/03/2022 17:09:09 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 17:09:09 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 17:09:09 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 17:09:12 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:09:23 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 17:09:45 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:12:58 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:13:03 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 17:13:08 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 17:13:11 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 17:13:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 17:13:11 - ID:401633059, Артём(p_arti_a), написал: Регистрация
+INFO 11/03/2022 17:13:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Регистрация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 17:13:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 17:14:04 - ID:401633059, Артём(p_arti_a), написал: /start
+INFO 11/03/2022 17:14:04 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 17:14:05 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 17:14:10 - ID:401633059, Артём(p_arti_a), написал: Регистрация
+INFO 11/03/2022 17:14:10 - ID:401633059, Артём(p_arti_a), вывел на экран: Регистрация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 17:14:16 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 17:14:16 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 17:14:18 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 17:14:19 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 17:14:19 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 17:14:21 - ID:401633059, Артём(p_arti_a), написал: Регистрация
+INFO 11/03/2022 17:14:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы не указали разделитель!
+INFO 11/03/2022 17:14:23 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 17:14:23 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 17:14:25 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 17:14:26 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 17:14:26 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 17:14:37 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 17:14:37 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 17:14:37 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 17:14:39 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:14:39 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 17:14:42 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 17:14:42 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 17:14:54 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:14:54 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 17:15:05 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:15:05 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 17:15:10 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 17:16:18 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 17:16:18 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 17:16:24 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 17:16:24 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 17:16:24 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 17:44:23 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 17:44:23 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 17:44:25 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 17:44:26 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 17:44:26 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 17:44:30 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 17:44:30 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 17:44:30 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 17:44:32 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:44:32 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 17:45:23 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:45:23 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 17:45:25 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 17:45:27 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 17:45:32 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 17:45:32 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 17:45:36 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 17:45:36 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 17:45:37 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 17:45:39 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 17:45:39 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 17:45:39 - ID:401633059, Артём(p_arti_a), вывел на экран: КА-ЗИ-НО!
+РандоМит
+INFO 11/03/2022 18:44:06 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 18:44:06 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 18:44:08 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 18:44:09 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 18:44:10 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 18:44:10 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 18:44:16 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 18:44:16 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 18:44:16 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 18:44:18 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 18:44:18 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 18:44:18 - ID:401633059, Артём(p_arti_a), вывел на экран: КА-ЗИ-НО!
+РандоМит
+ERROR 11/03/2022 18:44:18 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message identifier is not specified
+ERROR 11/03/2022 18:44:18 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 212, in randomid
+    bot.edit_message_text(message, reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message identifier is not specified
+
+INFO 11/03/2022 18:44:45 - ID:401633059, Артём(p_arti_a), написал: +10
+INFO 11/03/2022 18:44:47 - ID:401633059, Артём(p_arti_a), написал: +
+INFO 11/03/2022 18:44:48 - ID:401633059, Артём(p_arti_a), написал: -
+INFO 11/03/2022 18:44:48 - ID:401633059, Артём(p_arti_a), написал: -10
+INFO 11/03/2022 19:00:36 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:00:37 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:00:38 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:00:38 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:00:42 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:00:42 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:00:42 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:00:43 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:00:43 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:00:43 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 19:00:49 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:00:49 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:00:49 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 19:02:04 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:02:04 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:02:04 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 19:02:10 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:02:11 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:02:12 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:02:12 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:02:18 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:02:18 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:02:19 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:02:21 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:02:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:02:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 19:02:47 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:02:47 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 19:02:47 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 19:02:47 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:03:18 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 19:03:18 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 19:03:19 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:03:20 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:03:20 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:03:26 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:03:26 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:03:26 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:03:27 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:03:27 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:04:45 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:04:46 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:04:47 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:04:47 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:04:50 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:04:50 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:04:50 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:04:51 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:04:51 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:04:52 - ID:401633059, Артём(p_arti_a), вывел на экран: КА-ЗИ-НО!
+РандоМит
+ERROR 11/03/2022 19:04:52 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: inline keyboard expected
+ERROR 11/03/2022 19:04:52 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_reply_markup(inline_message_id = message, reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3633, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(self.token, chat_id, message_id, inline_message_id, reply_markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1301, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: inline keyboard expected
+
+INFO 11/03/2022 19:06:23 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:06:25 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:06:26 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:06:26 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:06:32 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:06:32 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:06:32 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:06:35 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:06:35 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:06:36 - ID:401633059, Артём(p_arti_a), вывел на экран: КА-ЗИ-НО!
+РандоМит
+ERROR 11/03/2022 19:06:36 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:06:36 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_reply_markup(chat_id = user.ms, message_id = message.id, reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3633, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(self.token, chat_id, message_id, inline_message_id, reply_markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1301, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:07:03 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:07:04 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:07:05 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:07:05 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:07:08 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:07:08 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:07:08 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:07:10 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:07:10 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:07:10 - ID:401633059, Артём(p_arti_a), вывел на экран: КА-ЗИ-НО!
+РандоМит
+ERROR 11/03/2022 19:07:10 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:07:10 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_reply_markup(chat_id = message, message_id = message.id, reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3633, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(self.token, chat_id, message_id, inline_message_id, reply_markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1301, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:09:26 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:09:27 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:09:28 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:09:28 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:09:31 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:09:31 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:09:31 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:09:33 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:09:33 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 19:10:04 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:10:06 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:10:06 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:10:06 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:10:11 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:10:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:10:11 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:10:13 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:10:13 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:10:13 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:10:13 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:12:31 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:12:32 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:12:33 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:12:33 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:12:36 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:12:36 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:12:36 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:12:37 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:12:37 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:12:38 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:12:38 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup).chat.id
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:16:15 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:16:17 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:16:17 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:16:17 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:16:22 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:16:22 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:16:22 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:16:23 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:16:23 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:16:24 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:16:24 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:17:03 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:17:04 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:17:04 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:17:04 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:17:09 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:17:09 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:17:09 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:17:11 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:17:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:17:15 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:17:15 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:17:40 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:17:41 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:17:41 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:17:41 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:17:44 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:17:44 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:17:44 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:17:45 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:17:45 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:17:45 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:17:45 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:19:48 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:19:49 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:19:49 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:19:49 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:19:53 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:19:53 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:19:53 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:19:55 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:19:55 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:19:55 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:19:55 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:20:35 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:20:36 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:20:36 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:20:36 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:20:43 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:20:43 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:20:43 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:20:45 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:20:45 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:20:45 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:20:45 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:23:34 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:23:36 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:23:36 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:23:36 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:23:43 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:23:43 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:23:43 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:23:45 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:23:45 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:23:45 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:23:45 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:24:03 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:24:05 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:24:07 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:24:07 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:24:13 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:24:13 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:24:13 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:24:14 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:24:14 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:24:14 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:24:14 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:24:32 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:24:34 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:24:35 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:24:35 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:24:39 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:24:39 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:24:39 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:24:41 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:24:41 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:24:57 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+ERROR 11/03/2022 19:24:57 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 208, in randomid
+    bot_mes = bot.send_message(message, 'КА-ЗИ-НО!\nРандоМит', reply_markup=markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1549, in send_message
+    apihelper.send_message(
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 277, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+
+INFO 11/03/2022 19:25:45 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:25:48 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:25:49 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:25:49 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:25:50 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:25:50 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:25:50 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:25:51 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:25:51 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:25:51 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+ERROR 11/03/2022 19:25:51 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text(bot_mes.text, chat_id = user.id, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+INFO 11/03/2022 19:27:41 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:27:42 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:27:44 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:27:44 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:27:48 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:27:48 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:27:48 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:27:49 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:27:49 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:27:49 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+ERROR 11/03/2022 19:27:49 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text('КА-ЗИ-НО!\nРандоМит', chat_id = user.id, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+INFO 11/03/2022 19:28:05 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:28:06 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:28:07 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:28:07 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:28:08 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:28:08 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:28:08 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:28:09 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:28:09 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:28:15 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+ERROR 11/03/2022 19:28:15 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text('КА-ЗИ-НО!\nРандоМит', chat_id = user.id, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+INFO 11/03/2022 19:32:04 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:32:06 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:32:07 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:32:07 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:32:08 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:32:08 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:32:08 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:32:09 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:32:09 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:32:14 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+ERROR 11/03/2022 19:32:14 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text(text=bot_mes.text, chat_id = user.id, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+INFO 11/03/2022 19:33:22 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:33:24 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:33:25 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:33:25 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:33:26 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:33:26 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:33:26 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:33:27 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:33:27 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:33:31 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+ERROR 11/03/2022 19:33:31 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text(chat_id = user.id, message_id=bot_mes.message_id, reply_markup = markup, text=bot_mes.text)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+
+INFO 11/03/2022 19:35:54 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:35:56 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:35:57 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:35:57 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:35:58 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:35:58 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:35:58 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:35:59 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:35:59 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:36:00 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+ERROR 11/03/2022 19:36:00 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text(chat_id = user.id, message_id=message.message_id - 1, reply_markup = markup, text=bot_mes.text)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+
+INFO 11/03/2022 19:36:29 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:36:30 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:36:31 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:36:31 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:36:32 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:36:32 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:36:32 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:36:33 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:36:33 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:37:46 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+ERROR 11/03/2022 19:37:46 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text(chat_id = user.id, message_id=message.message_id, reply_markup = markup, text=bot_mes.text)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+
+INFO 11/03/2022 19:37:53 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:37:54 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:37:55 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:37:55 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:37:56 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:37:56 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:37:57 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:37:58 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:37:58 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:38:01 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+ERROR 11/03/2022 19:38:01 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text(chat_id = user.id, message_id=bot_mes.message_id, reply_markup = markup, text=bot_mes.text)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+
+INFO 11/03/2022 19:39:09 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 19:39:11 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 19:39:12 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 19:39:12 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 19:39:13 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 19:39:13 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 19:39:13 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 19:39:14 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 19:39:14 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 19:39:17 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: inline keyboard expected
+ERROR 11/03/2022 19:39:17 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 118, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 211, in randomid
+    bot.edit_message_text(chat_id = user.id, message_id=bot_mes.message_id - 1, reply_markup = markup, text=bot_mes.text)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: inline keyboard expected
+
+INFO 11/03/2022 20:12:35 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:12:37 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:12:47 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:12:48 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:12:49 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:12:49 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:12:51 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:12:51 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:12:51 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:12:52 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:12:52 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 20:13:12 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:13:13 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:13:14 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:13:14 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:13:15 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:13:15 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:13:15 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:13:16 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:13:16 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 20:14:13 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:14:14 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:14:15 - ID:401633059, Артём(p_arti_a), написал: Регистрация
+INFO 11/03/2022 20:14:15 - ID:401633059, Артём(p_arti_a), вывел на экран: Регистрация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:14:17 - ID:401633059, Артём(p_arti_a), написал: ◀️ Назад
+INFO 11/03/2022 20:14:17 - ID:401633059, Артём(p_arti_a), исп. команду: ◀️ Назад
+INFO 11/03/2022 20:14:18 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:14:19 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:14:19 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:14:20 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:14:20 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:14:21 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:14:22 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:14:22 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 20:39:01 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:39:02 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:39:03 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:39:03 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:39:07 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:39:07 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:39:07 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:39:09 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:39:09 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 20:40:06 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:40:07 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:40:07 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:40:07 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:40:12 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:40:12 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:40:12 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:40:13 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:40:13 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 20:41:52 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:41:53 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:41:54 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:41:54 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:41:59 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:41:59 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:41:59 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:42:01 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:42:01 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 20:42:01 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: invalid inline message identifier specified
+ERROR 11/03/2022 20:42:01 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 126, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 225, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 222, in bet_check
+    bot.edit_message_text(text = bot_mes.text, inline_message_id = bot_mes.message_id, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: invalid inline message identifier specified
+
+INFO 11/03/2022 20:43:38 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:43:40 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:43:44 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:43:44 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:43:46 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:43:46 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:43:47 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:43:48 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:43:48 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 20:43:48 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 20:43:48 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 126, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 225, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 222, in bet_check
+    bot.edit_message_text(text = bot_mes.text, chat_id = bot_mes.chat.id, message_id = bot_mes.message_id, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 20:46:15 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:46:18 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:46:19 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:46:19 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:46:20 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:46:20 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:46:20 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:46:21 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:46:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 20:46:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 9
+Вы выйграли: 0.0
+INFO 11/03/2022 20:48:28 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:48:29 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:48:30 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:48:30 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:48:33 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:48:33 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:48:33 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:48:35 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:48:35 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 20:48:35 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -6
+Вы проиграли: 0.0
+INFO 11/03/2022 20:48:35 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 20:51:12 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:51:14 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:51:15 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:51:15 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:51:20 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:51:20 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:51:20 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 20:51:21 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:51:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 20:51:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -13
+Вы проиграли: 0.0
+INFO 11/03/2022 20:51:22 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 20:59:33 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:59:51 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 20:59:51 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 20:59:52 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 20:59:54 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 20:59:55 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 20:59:55 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 20:59:59 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 20:59:59 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 20:59:59 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:00:00 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:00:00 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 21:00:00 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 3
+Вы выйграли: 0.0
+INFO 11/03/2022 21:00:00 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 21:07:55 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:07:57 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:07:57 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:07:57 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:08:02 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:08:02 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:08:02 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:08:03 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:08:03 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 21:08:04 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 15
+Вы выйграли: 0.0
+INFO 11/03/2022 21:08:04 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 21:40:10 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:40:11 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:40:12 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:40:12 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:40:17 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:40:17 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:40:17 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:40:18 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:40:18 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 21:40:18 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 21:40:19 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 134, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 239, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 236, in bet_check
+    bet_check(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 235, in bet_check
+    bot.edit_message_text(text = f'КА-ЗИ-НО! РандоМит. Ваш баланс равен = {bet}', chat_id = user.id, message_id = message.message_id + 1, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 21:43:05 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:43:06 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:43:07 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:43:07 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:43:10 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:43:10 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:43:10 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:43:11 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:43:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 21:43:11 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 21:43:11 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 134, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 239, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 236, in bet_check
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 235, in bet_check
+    bot.edit_message_text(text = f'КА-ЗИ-НО! РандоМит. Ваш баланс равен = {bet}', chat_id = user.id, message_id = message.message_id + 1, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 21:44:53 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:44:54 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:44:55 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:44:55 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:45:00 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:45:00 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:45:00 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:45:01 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:45:01 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 21:45:02 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: there is no caption in the message to edit
+ERROR 11/03/2022 21:45:02 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 134, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 239, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 235, in bet_check
+    bot.edit_message_caption(f'КА-ЗИ-НО! РандоМит. Ваш баланс равен = {bet}', chat_id = user.id, message_id = message.message_id + 1, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 4223, in edit_message_caption
+    result = apihelper.edit_message_caption(self.token, caption, chat_id, message_id, inline_message_id,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1272, in edit_message_caption
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: there is no caption in the message to edit
+
+INFO 11/03/2022 21:46:14 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:46:15 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:46:18 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:46:18 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:46:19 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:46:19 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:46:19 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:46:20 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:46:20 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 21:46:20 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 21:46:20 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 134, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 239, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 236, in bet_check
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 235, in bet_check
+    bot.edit_message_reply_markup(chat_id = user.id, message_id = message.message_id + 1, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3633, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(self.token, chat_id, message_id, inline_message_id, reply_markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1301, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 21:48:33 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:48:38 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:48:40 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:48:40 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:48:41 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:48:41 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:48:41 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:48:43 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:48:43 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 21:49:56 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:50:00 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:50:00 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:50:00 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:50:01 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:50:01 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:50:01 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:50:02 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:50:02 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 21:50:02 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 21:50:02 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 134, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 238, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 235, in bet_check
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 234, in bet_check
+    bot.edit_message_reply_markup(chat_id = user.id, message_id = message.message_id + 1, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3633, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(self.token, chat_id, message_id, inline_message_id, reply_markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1301, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 21:51:09 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:51:10 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:51:11 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:51:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:51:13 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:51:13 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:51:13 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:51:14 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:51:14 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 21:51:14 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 21:51:14 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 134, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 238, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 235, in bet_check
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 234, in bet_check
+    bot.edit_message_reply_markup(chat_id = user.id, message_id = message.message_id + 1, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3633, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(self.token, chat_id, message_id, inline_message_id, reply_markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1301, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 21:51:34 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 21:51:50 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 21:51:51 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 21:51:51 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 21:51:53 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 21:51:53 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 21:51:53 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 21:51:54 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 21:51:54 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 21:53:11 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 21:53:11 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 134, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 237, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 234, in bet_check
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 233, in bet_check
+    bot.edit_message_reply_markup(chat_id = user.id, message_id = message.message_id + 1, reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3633, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(self.token, chat_id, message_id, inline_message_id, reply_markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1301, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 22:15:15 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:15:17 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:15:21 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:15:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:15:22 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:15:22 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:15:22 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:15:23 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:15:23 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 22:15:24 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 22:15:24 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 141, in messaged
+    randomid(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 243, in randomid
+    bet_check (message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 240, in bet_check
+    bot.edit_message_reply_markup(chat_id = user.id, message_id = message.message_id + 1)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3633, in edit_message_reply_markup
+    result = apihelper.edit_message_reply_markup(self.token, chat_id, message_id, inline_message_id, reply_markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1301, in edit_message_reply_markup
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 22:18:05 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:18:09 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:18:09 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:18:09 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:18:10 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:18:10 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:18:10 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:18:11 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:18:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:18:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -11
+Вы проиграли: 0.0
+INFO 11/03/2022 22:18:11 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 22:18:32 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:18:32 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:18:33 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -14
+Вы проиграли: 0.0
+INFO 11/03/2022 22:18:33 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 22:18:43 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:18:43 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:19:03 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 19
+Вы выйграли: 0.0
+INFO 11/03/2022 22:19:03 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 22:19:07 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:19:07 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:20:00 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:20:01 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:20:08 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:20:08 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:20:09 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:20:09 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:20:09 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:20:10 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:20:10 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:20:14 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 9
+Вы выйграли: 0.0
+INFO 11/03/2022 22:20:14 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 22:22:25 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:22:26 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:22:28 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:22:28 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:22:34 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:22:34 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:22:34 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:22:35 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:22:35 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:22:35 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -17
+Вы проиграли: 0.0
+INFO 11/03/2022 22:22:35 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 22:29:02 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:29:03 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:29:04 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:29:04 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:29:07 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:29:07 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:29:07 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:29:08 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:29:08 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:30:41 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:30:42 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:30:43 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:30:43 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:30:47 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:30:47 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:30:47 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:30:48 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:30:48 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 22:30:58 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 22:30:58 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 6086, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 111, in callback_inline
+    bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = f'КА-ЗИ-НО! РандоМит. Ваша ставка равна = {bet}', reply_markup = markup)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 22:33:12 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:33:13 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:33:14 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:33:14 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:33:18 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:33:18 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:33:18 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:33:19 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:33:19 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:37:45 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:37:46 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:37:48 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:37:48 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:37:50 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:37:50 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:37:50 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:37:51 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:37:51 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:38:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -2
+Вы проиграли: -6.0
+INFO 11/03/2022 22:38:29 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 94.0
+INFO 11/03/2022 22:38:55 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -16
+Вы проиграли: -48.0
+INFO 11/03/2022 22:38:55 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 52.0
+INFO 11/03/2022 22:39:12 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -7
+Вы проиграли: -7.0
+INFO 11/03/2022 22:39:12 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 93.0
+INFO 11/03/2022 22:39:16 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 19
+Вы выйграли: 19.0
+INFO 11/03/2022 22:39:16 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 119.0
+INFO 11/03/2022 22:53:35 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:53:36 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:53:37 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:53:37 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:53:41 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:53:41 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:53:41 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:53:42 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:53:42 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:53:45 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -6
+Вы проиграли: -6.0
+INFO 11/03/2022 22:53:45 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 94.0
+ERROR 11/03/2022 22:53:45 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message identifier is not specified
+ERROR 11/03/2022 22:53:45 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 6086, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 100, in callback_inline
+    randomid(user.ms)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 262, in randomid
+    bot.delete_message (user.id, botdata.ms)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1687, in delete_message
+    return apihelper.delete_message(self.token, chat_id, message_id, timeout)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1309, in delete_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message identifier is not specified
+
+INFO 11/03/2022 22:55:06 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:55:06 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:55:06 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы ещё не авторизировались!
+INFO 11/03/2022 22:55:06 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:55:08 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:55:10 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:55:10 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:55:14 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:55:14 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:55:14 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:55:16 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:55:16 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:55:18 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 0
+Вы выйграли: 0.0
+INFO 11/03/2022 22:55:18 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 100.0
+INFO 11/03/2022 22:55:26 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -3
+Вы проиграли: -0.6
+INFO 11/03/2022 22:55:26 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 99.4
+ERROR 11/03/2022 22:55:27 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+ERROR 11/03/2022 22:55:27 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 6086, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 100, in callback_inline
+    randomid(user.ms)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 263, in randomid
+    bet_check(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 242, in bet_check
+    botmes = bot.edit_message_text(chat_id = user.id, message_id = message.message_id + 1, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+INFO 11/03/2022 22:55:30 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:55:32 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:55:33 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:55:33 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:55:35 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:55:35 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы не указали разделитель!
+INFO 11/03/2022 22:55:40 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:55:40 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:55:40 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:55:41 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:55:41 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:55:48 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -15
+Вы проиграли: -1.5
+INFO 11/03/2022 22:55:48 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 98.5
+INFO 11/03/2022 22:56:47 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 22:56:49 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 22:56:50 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 22:56:50 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 22:56:53 - ID:401633059, Артём(p_arti_a), написал: partia-1234
+INFO 11/03/2022 22:56:53 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы не указали разделитель!
+INFO 11/03/2022 22:56:56 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 22:56:56 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 22:56:56 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 22:56:58 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 22:56:58 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 22:57:42 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -8
+Вы проиграли: -0.8
+INFO 11/03/2022 22:57:42 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 99.2
+INFO 11/03/2022 22:57:50 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -11
+Вы проиграли: -2.2
+INFO 11/03/2022 22:57:50 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+Теперь ваш баланс равен: 97.8
+ERROR 11/03/2022 22:57:51 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+ERROR 11/03/2022 22:57:51 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 6086, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 100, in callback_inline
+    randomid(user.ms)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 263, in randomid
+    bet_check(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 242, in bet_check
+    botmes = bot.edit_message_text(chat_id = user.id, message_id = message.message_id + 1, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to edit not found
+
+INFO 11/03/2022 23:00:26 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 23:00:27 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 23:00:28 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 23:00:28 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 23:00:31 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 23:00:31 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 23:00:31 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 23:00:32 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 23:00:32 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+ERROR 11/03/2022 23:00:32 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+ERROR 11/03/2022 23:00:32 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 142, in messaged
+    bet_check(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 242, in bet_check
+    botmes = bot.edit_message_text(chat_id = user.id, message_id = message.message_id, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message can't be edited
+
+INFO 11/03/2022 23:07:13 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 23:09:06 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 23:09:21 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 23:09:21 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 23:09:27 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 23:09:27 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 23:09:27 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 23:10:53 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 23:17:50 - ID:401633059, Артём(p_arti_a), исп. команду: /start
+INFO 11/03/2022 23:17:51 - ID:401633059, Артём(p_arti_a), написал: Самодельное казино!
+INFO 11/03/2022 23:17:53 - ID:401633059, Артём(p_arti_a), написал: Вход
+INFO 11/03/2022 23:17:53 - ID:401633059, Артём(p_arti_a), вывел на экран: Авторизация!
+Введите данные.
+Логин;Пароль
+INFO 11/03/2022 23:17:56 - ID:401633059, Артём(p_arti_a), написал: partia;1234
+INFO 11/03/2022 23:17:56 - ID:401633059, Артём(p_arti_a), вывел на экран: Вы успешно авторизировались partia
+INFO 11/03/2022 23:17:56 - ID:401633059, Артём(p_arti_a), вывел на экран: 
+В какую игру сыграем?
+1. РандоМит
+2. Однорукий Бандит
+3. Рулетка
+INFO 11/03/2022 23:17:58 - ID:401633059, Артём(p_arti_a), написал: 🎱 РандоМит
+INFO 11/03/2022 23:17:58 - ID:401633059, Артём(p_arti_a), вывел на экран: Запускаем РандоМит
+INFO 11/03/2022 23:18:01 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 5
+Вы выйграли: 0.5
+Теперь ваш баланс равен: 100.5
+INFO 11/03/2022 23:18:11 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 18
+Вы выйграли: 3.6
+Теперь ваш баланс равен: 103.6
+INFO 11/03/2022 23:18:19 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 16
+Вы выйграли: 3.2
+Теперь ваш баланс равен: 103.2
+ERROR 11/03/2022 23:18:19 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 23:18:19 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 6086, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 100, in callback_inline
+    randomid(user.ms)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 262, in randomid
+    bet_check(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 242, in bet_check
+    botdata = bot.edit_message_text(chat_id = user.id, message_id = message.message_id+1, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 23:18:26 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -4
+Вы проиграли: -0.8
+Теперь ваш баланс равен: 99.2
+ERROR 11/03/2022 23:18:27 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 23:18:27 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 6086, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 100, in callback_inline
+    randomid(user.ms)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 262, in randomid
+    bet_check(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 242, in bet_check
+    botdata = bot.edit_message_text(chat_id = user.id, message_id = message.message_id+1, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 23:18:36 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -13
+Вы проиграли: -2.6
+Теперь ваш баланс равен: 97.4
+ERROR 11/03/2022 23:18:36 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 23:18:36 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 6086, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 100, in callback_inline
+    randomid(user.ms)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 262, in randomid
+    bet_check(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 242, in bet_check
+    botdata = bot.edit_message_text(chat_id = user.id, message_id = message.message_id+1, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+INFO 11/03/2022 23:18:58 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -10
+Вы проиграли: -12.0
+Теперь ваш баланс равен: 88.0
+INFO 11/03/2022 23:19:00 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 19
+Вы выйграли: 24.7
+Теперь ваш баланс равен: 124.7
+INFO 11/03/2022 23:19:10 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число -3
+Вы проиграли: -12.0
+Теперь ваш баланс равен: 88.0
+INFO 11/03/2022 23:19:16 - ID:401633059, Артём(p_arti_a), вывел на экран: Выпало число 7
+Вы выйграли: 28.0
+Теперь ваш баланс равен: 128.0
+ERROR 11/03/2022 23:19:16 - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+ERROR 11/03/2022 23:19:16 - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 1078, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 154, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\util.py", line 98, in run
+    task(*args, **kwargs)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 6086, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 100, in callback_inline
+    randomid(user.ms)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 262, in randomid
+    bet_check(message)
+  File "e:\Python\Telegram_bot\Casino_telegram.py", line 242, in bet_check
+    botdata = bot.edit_message_text(chat_id = user.id, message_id = message.message_id+1, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\__init__.py", line 3567, in edit_message_text
+    result = apihelper.edit_message_text(self.token, text, chat_id, message_id, inline_message_id, parse_mode,
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 1253, in edit_message_text
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\Artem\AppData\Local\Programs\Python\Python310\lib\site-packages\telebot\apihelper.py", line 189, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+

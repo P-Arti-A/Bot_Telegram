@@ -84,35 +84,68 @@ def notification(message):
     
     bot.send_message(ud(message).id, f'{ud(message).fn}, вот текушие результаты кручения в казино:\n{text}', reply_markup = markup)
 
-# def statemachin (message):
-#     if message.text == "":
-
+@bot.callback_query_handler(func = lambda call: call.data in ['-10', '-', 'bet', '+', '+10'])
+def callback_inline(call):
+    global user
+    global bet
+    if call.message:
+        if call.data == '-10': 
+            bet -= 10
+            if bet < 0: bet = 0
+        elif call.data == '-': 
+            bet -= 1
+            if bet < 0: bet = 0
+        elif call.data == 'bet': 
+            bot.send_message (user.id, 'Ставка сделана!')
+            randomid(user.ms)
+        elif call.data == '+': 
+            bet += 1
+        elif call.data == '+10': 
+            bet += 10
+        if call.data != 'bet':
+            markup = keyboard.markinline(keyboard.inlinebut('-10'), 
+                                    keyboard.inlinebut('-'), 
+                                    types.InlineKeyboardButton(f'{bet}', callback_data='bet'),
+                                    keyboard.inlinebut('+'), 
+                                    keyboard.inlinebut('+10'), Row_width = 5)
+            
+            bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = f'КА-ЗИ-НО! РандоМит. Ваша ставка равна = {bet}', reply_markup = markup)
+        
+    
 
 @bot.message_handler(content_types=['text'])
 def messaged (message):
-    if message.text not in ["🎰 Казино!","🎲 Кости!"]:
-        log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), написал: {message.text}')
-    if message.text == "🎰 Казино!":
-        valuedice = bot.send_dice(message.chat.id, emoji='🎰')
-        log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), в Казино = {valuedice.dice.value}')
-    elif message.text == "🎲 Кости!":
-        valuedice = bot.send_dice(message.chat.id)
-        log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), в Кости = {valuedice.dice.value}')
-    elif message.text == "Самодельное казино!":
-        markup = keyboard.mark(keyboard.button("Вход"), keyboard.button("Регистрация"), keyboard.button("Назад"), One_time_keyboard = True, Row_width = 2)
-        bot.send_message (ud(message).id, 'Запуск самодельного Казино!', reply_markup=markup)
-        # tprint (message, 'Авторизация:\nЛогин:')
-
-    elif message.text == "◀️ Назад":
-        welcome(message)
-    elif message.text == "Вход":   
-        tprint (message, 'Авторизация!\nВведите данные.\nЛогин;Пароль')
-        bot.register_next_step_handler(message, initialization)
-    elif message.text == "Регистрация":
-        tprint (message, 'Регистрация!\nВведите данные.\nЛогин;Пароль')
-        bot.register_next_step_handler(message, registrate)
-    
-    
+    global user
+    try:
+        if message.text not in ["🎰 Казино!","🎲 Кости!"]:
+            log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), написал: {message.text}')
+        if message.text == "🎰 Казино!":
+            valuedice = bot.send_dice(message.chat.id, emoji='🎰')
+            log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), в Казино = {valuedice.dice.value}')
+        elif message.text == "🎲 Кости!":
+            valuedice = bot.send_dice(message.chat.id)
+            log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), в Кости = {valuedice.dice.value}')
+        elif message.text == "Самодельное казино!":
+            markup = keyboard.mark(keyboard.button("Вход"), keyboard.button("Регистрация"), keyboard.button("Назад"), One_time_keyboard = True, Row_width = 2)
+            bot.send_message (ud(message).id, 'Запуск самодельного Казино!', reply_markup=markup)
+            # tprint (message, 'Авторизация:\nЛогин:')
+        elif message.text == "◀️ Назад":
+            welcome(message)
+        elif message.text == "Вход":   
+            tprint (message, 'Авторизация!\nВведите данные.\nЛогин;Пароль')
+            bot.register_next_step_handler(message, initialization)
+        elif message.text == "Регистрация":
+            tprint (message, 'Регистрация!\nВведите данные.\nЛогин;Пароль')
+            bot.register_next_step_handler(message, registrate)
+        elif user.lg is not None and message.text == "🎱 РандоМит":
+            tprint (message, "Запускаем РандоМит")
+            bet_check(message)
+        elif user.lg is not None and message.text == "🎰 Однорукий Бандит":
+            tprint (message, "Запускаем Однорукого Бандита")
+        elif user.lg is not None and message.text == "🎲 Рулетка":
+            tprint (message, "Запускаем Рулетку")
+    except NameError:
+        tprint (message, "Вы ещё не авторизировались!")
 
 
 # print ('Время ожидания, превышено!')
@@ -128,12 +161,16 @@ def comeback (message):
         welcome(message)
         return True
 
-def tprint (message, text):
-    log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), вывел на экран: {text}')
-    return bot.send_message(ud(message).id, text)
+#########################################################
 
+def tprint (message, text, Reply_markup: str = None):
+    log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), вывел на экран: {text}')
+    return bot.send_message(ud(message).id, text, reply_markup=Reply_markup)
+
+#########################################################
 
 def registrate (message):
+    global user
     if comeback(message):  return
     user = ud(message)
     try:
@@ -148,31 +185,20 @@ def registrate (message):
     cdb.execute (f'INSERT INTO users VALUES (?, ?, ?)', (user.lg, user.pw, 100))
     db.commit()
     tprint (message, f'Вы зарегистрировались, {user.lg} {user.pw}\nВаш баланс: 100')
+    play()
 
-def password(message):
-    global user
-    if message.text == '':
-        tprint (message, 'Вы не ввели пароль!')
-        bot.register_next_step_handler(message, password)
-    else:
-        cdb.execute (f"SELECT password FROM users WHERE login = '{message.text}'")
-        if cdb.fetchone () is None:
-            user = ud(message, user.lg, message.text)
-            # cdb.execute (f"INSERT INTO users VALUES (?, ?, ?)", (user.lg, user.pw, 100))
-            tprint (message, f'{user.lg}, вы успешно зарегистрировались!')
+#########################################################
 
 prob = 0 # Пробные попытки авторизации в функции initialization которая объявлена глобальной
 
 def initialization(message):
     global prob
+    global user
     if comeback(message):  return
     if prob == 3:
         tprint (message, 'Вы не смогли войти!')
         quit ()
     user = ud(message)
-    # if '/' in [user.tx.split()]:
-    #     tprint (message, 'Повторите команду')
-    #     exit()
     try:
         user.lg, user.pw = user.tx.split(';')
     except ValueError:
@@ -187,163 +213,56 @@ def initialization(message):
         return
     else: 
         tprint (message, f'Вы успешно авторизировались {user.lg}')
-        # if input_set () in ['Y', 'y', 'У', 'у']:
-            # while True:
-            #     login = input_set ('Login (>30 символов): ')
-            #     if len(login) > 30: 
-            #         tprint (message, 'Введеное кол-во символов превышает лимит')
-            #         continue
-            #     password = input_set ('Password (>16 символов): ')
-            #     if len(password) > 16: 
-            #         tprint (message, 'Введеное кол-во символов превышает лимит')
-            #         continue
-            #     registrate(login, password)
-            #     tprint (message, "Вы успешно зарегистрировались!\n")
-            # play()
-            # quit ()
-        # else:   tprint (message, "Для продолжения, нужно зарегистрироваться!"), quit()
-    # user_pas = input_set ('Password: ')
-    # cdb.execute (f"SELECT login, password FROM users WHERE login = '{user_login}' AND password = '{user_pas}'")
-    # if cdb.fetchone() is None:
-    #     if probs == 0:
-    #         tprint (message, "К сожалению, вы заблокированы.")
-    #         quit()
-    #     else:
-    #         tprint (f'Неверный пароль! У вас осталось {probs} попыток')
-    #     probs -= 1
-    # else:
-    #     return (user_login, user_pas)
+        play(message)
 
 #########################################################
 
-# #########################################################
+def play(message):
+    markup = keyboard.mark(keyboard.button('РандоМит'), keyboard.button('Бандит'), keyboard.button('Рулетка'), keyboard.button('Назад'), One_time_keyboard = True, Row_width = 1)
+    tprint (message, '\nВ какую игру сыграем?\n1. РандоМит\n2. Однорукий Бандит\n3. Рулетка', Reply_markup = markup)
+    bot.register_next_step_handler(message, messaged)
+    return
+
+#########################################################
+
+bet = 0
+def bet_check(message):
+    global bet
+    global botdata
+    if not cash_check(user.lg): quit()
+    # if 
+    #     return
+    # else: loc_bet = bet
+    markup = keyboard.markinline(keyboard.inlinebut('-10'), 
+                                 keyboard.inlinebut('-'), 
+                                 types.InlineKeyboardButton(f'{bet}', callback_data='bet'),
+                                 keyboard.inlinebut('+'), 
+                                 keyboard.inlinebut('+10'), Row_width = 5)
+    # bot_mes = bot.send_message(user.id, 'КА-ЗИ-НО! РандоМит', reply_markup=markup)
+    botdata = bot.edit_message_text(chat_id = user.id, message_id = message.message_id+1, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
     
-# def show_user(user): 
-#     for value in cdb.execute (f"SELECT * FROM users WHERE login = '{user}'"):
-#         tprint (value)
 
-# #########################################################
-    
-# def show_all_user(): 
-#     for value in cdb.execute (f"SELECT * FROM users"):
-#         tprint (value)
+def randomid (message):
+    global bet
+    cdb.execute (f"SELECT cash from users WHERE login = '{user.lg}'")
+    cash = cdb.fetchone()[0]
+    # tprint (ud.ms, '\nЕсли наигрались пишите "выход/quit" для выхода')
+    fortune = randint (-20, 20)
+    bet_new = (fortune * int(bet) / 10).real    # Метод .real это класс для предоставления вещественныз чисел. На выходе получаем float
+    cash += round (bet_new, 2)
+    if fortune >= 0: 
+        tprint (message, f"Выпало число {fortune}\nВы выйграли: {round(bet_new,2)}\nТеперь ваш баланс равен: {cash:.1f}")
+    elif fortune < 0:
+        tprint (message, f"Выпало число {fortune}\nВы проиграли: {round(bet_new,2)}\nТеперь ваш баланс равен: {cash:.1f}")
+    if cash < 0: zeroing(user.lg)
+    # else:
+        # cdb.execute (f"UPDATE users SET cash = {cash:.1f} WHERE login = '{user.lg}'")
+        # db.commit()
+    # bot.delete_message (user.id, botdata.ms.id)
+    bet_check(message)
 
-# #########################################################
 
-
-# def prob_init (user_login):
-#     cdb.execute (f"SELECT * FROM users WHERE login = '{user_login}'")
-#     if cdb.fetchone () is None: return tprint (message, "Не найден данный логин!"), quit()
-#     else: return user_login
-
-# #########################################################
-
-# def delete (user_login):
-#     prob_init (user_login)
-#     cdb.execute (f"DELETE FROM users WHERE login = '{user_login}'")
-#     db.commit()
-#     tprint (message, "Пользователь удалён!")
-#     initialization()
-
-# #########################################################
-
-# def zeroing (user_login):
-#     prob_init (user_login)
-#     cdb.execute (f"UPDATE users SET cash = 0 WHERE login = '{user_login}'")
-#     db.commit()
-#     tprint (message, "Ваш баланс = 0!")
-
-# #########################################################
-
-# def main_table(user_login):
-#     prob_init (user_login)
-#     cdb.execute (f"SELECT * from users WHERE login = '{user_login}'")
-#     cash = cdb.fetchone()[-1]
-#     # print ('\nВы успешно авторизировались!')
-#     tprint (f'{user_login}, Ваш баланс: {cash}')
-
-# #########################################################
-
-# def cash_up(user_login):
-#     prob_init (user_login)
-#     new_cash = int(input_set('Введите сумму пополнения: '))
-#     cdb.execute (f"SELECT cash FROM users WHERE login = '{user_login}'")
-#     cash = cdb.fetchone()[0]
-#     cdb.execute (f"UPDATE users SET cash = {cash + new_cash} WHERE login = '{user_login}'")
-#     db.commit()
-#     tprint (f'{user_login}, Ваш баланс пополнен и равен: {cash + new_cash}')
-    
-# #########################################################
-
-# def bet_check (user_login):
-#     prob_init (user_login)
-#     cdb.execute (f"SELECT  cash from users WHERE login = '{user_login}'")
-#     cash = cdb.fetchone()[0]
-#     try:
-#         bet = input_set('\nВаша ставка: ')
-#         if bet in ['quit', 'continue', 'break', 'выход', 'выйти', 'дальше']:
-#             main_table (user_login)
-#             play(user_login)
-#             quit()
-#         if abs(int(bet)) > cash:
-#             return tprint (message, "Ставка слишком большая!")
-#         return abs(int(bet))
-#     except ValueError: 
-#         tprint (message, 'Введите цифры!')
-#         return
-
-# #########################################################
-# def input_set(text):
-#     if text in ['setings', 'seting', 'settings', 'setting']:
-#         setings()
-#         quit()
-#     elif text == "": 
-#         tprint (message, "Вы не ввели никаких данных!")
-#         input_set ()
-#     else: return text
-
-# #########################################################
-# def play(user_login):
-    
-#     tprint (message, '\nВ какую игру сыграем?\n1. РандоМит\n2. Однорукий Бандит\n3. Рулетка')
-#     # try:
-#     #     result = int(input_set('1/2/3: '))
-#     #     if result == 1:  randomid (user_login)
-#     #     if result == 2:  slot_machin (user_login)
-#     #     if result == 3:  ruletka (user_login)
-#     # except ValueError:
-#     #     tprint (message, 'Введите цифры!') 
-#     #     play()
-#     # else: 
-#     #     main_table(user_login)
-#     #     tprint (message, 'Приходите ещё!\n')
-#     quit()
-
-# #########################################################
-
-# def randomid (user_login):
-#     prob_init(user_login)
-#     tprint (ud.ms, '\nКА-ЗИ-НО!\nРандоМит')
-#     while True:
-#         cdb.execute (f"SELECT cash from users WHERE login = '{user_login}'")
-#         cash = cdb.fetchone()[0]
-#         tprint (ud.ms, '\nНаигрались? Пишите "выход/quit" для выхода')
-#         bet = bet_check(user_login)
-#         if bet is None: continue
-#         fortune = randint (-20, 20)
-#         bet_new = (fortune * int(bet) / 10).real
-#         cash += round (bet_new, 2)
-#         if fortune >= 0: 
-#             tprint (f"Выпало число {fortune}\nВы выйграли: {round(bet_new,2)}")
-#         elif fortune < 0:
-#             tprint (f"Выпало число {fortune}\nВы проиграли: {round(bet_new,2)}")
-#         if cash < 0: zeroing(user_login)
-#         else:
-#             cdb.execute (f"UPDATE users SET cash = {cash:.1f} WHERE login = '{user_login}'")
-#             db.commit()
-#             tprint (f"\nТеперь ваш баланс равен: {cash:.1f}")
-
-# #########################################################
+#########################################################
 
 # def slot_machin (user_login):
 #     while True:
@@ -480,6 +399,88 @@ def initialization(message):
 #         else:   return sets() 
 #     elif word in ['rulet', 'slotmach', 'random', 'table', 'plays', 'zero', 'delet', 'show', 'cashup', 'probin', 'betcheck']: return sets(input ('Log in: '))
 #     return setings()
+
+# #########################################################
+
+# def prob_init (message):
+#     cdb.execute (f"SELECT * FROM users WHERE login = '{user.lg}'")
+#     if cdb.fetchone () is None: return tprint (message, "Не найден данный логин!")
+#     else: True
+    
+# #########################################################
+    
+# def show_user(user): 
+#     for value in cdb.execute (f"SELECT * FROM users WHERE login = '{user}'"):
+#         tprint (value)
+
+# #########################################################
+    
+# def show_all_user(): 
+#     for value in cdb.execute (f"SELECT * FROM users"):
+#         tprint (value)
+
+
+# #########################################################
+
+# def delete (user_login):
+#     prob_init (user_login)
+#     cdb.execute (f"DELETE FROM users WHERE login = '{user_login}'")
+#     db.commit()
+#     tprint (message, "Пользователь удалён!")
+#     initialization()
+
+#########################################################
+
+def zeroing (user_login):
+    cdb.execute (f"UPDATE users SET cash = 0 WHERE login = '{user_login}'")
+    db.commit()
+    tprint (user.ms, "Ваш баланс = 0!")
+
+#########################################################
+
+# def main_table(user_login):
+#     prob_init (user_login)
+#     cdb.execute (f"SELECT * from users WHERE login = '{user_login}'")
+#     cash = cdb.fetchone()[-1]
+#     # print ('\nВы успешно авторизировались!')
+#     tprint (f'{user_login}, Ваш баланс: {cash}')
+
+# #########################################################
+
+# def cash_up(user_login):
+#     prob_init (user_login)
+#     new_cash = int(input_set('Введите сумму пополнения: '))
+#     cdb.execute (f"SELECT cash FROM users WHERE login = '{user_login}'")
+#     cash = cdb.fetchone()[0]
+#     cdb.execute (f"UPDATE users SET cash = {cash + new_cash} WHERE login = '{user_login}'")
+#     db.commit()
+#     tprint (f'{user_login}, Ваш баланс пополнен и равен: {cash + new_cash}')
+    
+#########################################################
+
+def cash_check (user_login):
+    cdb.execute (f"SELECT  cash from users WHERE login = '{user_login}'")
+    cash = cdb.fetchone()[0]
+    try:
+        if cash <= 0:
+            tprint (user.ms, "На вашем счету недостаточно средств!")
+            welcome(user.ms)
+            return False
+        else: return True
+    except ValueError: 
+        tprint (user.ms, 'Неверный логин!')
+        welcome(user.ms)
+
+#########################################################
+# def input_set(text):
+#     if text in ['setings', 'seting', 'settings', 'setting']:
+#         setings()
+#         quit()
+#     elif text == "": 
+#         tprint (message, "Вы не ввели никаких данных!")
+#         input_set ()
+#     else: return text
+
 
 #########################################################
 # MAIN PROGRAM
