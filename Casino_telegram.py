@@ -20,6 +20,18 @@ class ud:   #UserData Class
         self.lg = user_login
         self.pw = user_password
         self.tx = message.text
+        self.lb = 0    # Последняя ставка
+
+class bd:
+    def __init__(self, mes = '') -> None:
+        self.mes_id = mes.message_id
+        self.mes_now = mes
+        self.last_mes = None
+        self.bet = 0
+        self.last_bet = 0
+        self.bet_mes = None
+        self.last_bet_mes = None
+        self.pb = 0
 
 # class statemachin:
 #     def __init__(self, state = ''):
@@ -87,65 +99,66 @@ def notification(message):
 @bot.callback_query_handler(func = lambda call: call.data in ['-10', '-', 'bet', '+', '+10'])
 def callback_inline(call):
     global user
-    global bet
+    global databot
     if call.message:
         if call.data == '-10': 
-            bet -= 10
-            if bet < 0: bet = 0
+            databot.bet -= 10
+            if databot.bet < 0: databot.bet = 0
         elif call.data == '-': 
-            bet -= 1
-            if bet < 0: bet = 0
+            databot.bet -= 1
+            if databot.bet < 0: databot.bet = 0
         elif call.data == 'bet': 
-            bot.send_message (user.id, 'Ставка сделана!')
+            # bot.send_message (user.id, 'Ставка сделана!')
+            
             randomid(user.ms)
         elif call.data == '+': 
-            bet += 1
+            databot.bet += 1
         elif call.data == '+10': 
-            bet += 10
-        if call.data != 'bet':
+            databot.bet += 10
+    
+        if call.data != 'bet' and databot.last_bet != databot.bet:
             markup = keyboard.markinline(keyboard.inlinebut('-10'), 
                                     keyboard.inlinebut('-'), 
-                                    types.InlineKeyboardButton(f'{bet}', callback_data='bet'),
+                                    types.InlineKeyboardButton(f'{databot.bet}', callback_data='bet'),
                                     keyboard.inlinebut('+'), 
                                     keyboard.inlinebut('+10'), Row_width = 5)
-            
-            bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = f'КА-ЗИ-НО! РандоМит. Ваша ставка равна = {bet}', reply_markup = markup)
-        
-    
+            bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = f'КА-ЗИ-НО! РандоМит. Ваша ставка равна = {databot.bet}', reply_markup = markup)
+            databot.last_bet = databot.bet
 
 @bot.message_handler(content_types=['text'])
 def messaged (message):
     global user
-    try:
-        if message.text not in ["🎰 Казино!","🎲 Кости!"]:
-            log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), написал: {message.text}')
-        if message.text == "🎰 Казино!":
-            valuedice = bot.send_dice(message.chat.id, emoji='🎰')
-            log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), в Казино = {valuedice.dice.value}')
-        elif message.text == "🎲 Кости!":
-            valuedice = bot.send_dice(message.chat.id)
-            log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), в Кости = {valuedice.dice.value}')
-        elif message.text == "Самодельное казино!":
-            markup = keyboard.mark(keyboard.button("Вход"), keyboard.button("Регистрация"), keyboard.button("Назад"), One_time_keyboard = True, Row_width = 2)
-            bot.send_message (ud(message).id, 'Запуск самодельного Казино!', reply_markup=markup)
-            # tprint (message, 'Авторизация:\nЛогин:')
-        elif message.text == "◀️ Назад":
-            welcome(message)
-        elif message.text == "Вход":   
-            tprint (message, 'Авторизация!\nВведите данные.\nЛогин;Пароль')
-            bot.register_next_step_handler(message, initialization)
-        elif message.text == "Регистрация":
-            tprint (message, 'Регистрация!\nВведите данные.\nЛогин;Пароль')
-            bot.register_next_step_handler(message, registrate)
-        elif user.lg is not None and message.text == "🎱 РандоМит":
-            tprint (message, "Запускаем РандоМит")
-            bet_check(message)
-        elif user.lg is not None and message.text == "🎰 Однорукий Бандит":
-            tprint (message, "Запускаем Однорукого Бандита")
-        elif user.lg is not None and message.text == "🎲 Рулетка":
-            tprint (message, "Запускаем Рулетку")
-    except NameError:
-        tprint (message, "Вы ещё не авторизировались!")
+    global databot
+    # try:
+    if message.text not in ["🎰 Казино!","🎲 Кости!"]:
+        log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), написал: {message.text}')
+    if message.text == "🎰 Казино!":
+        valuedice = bot.send_dice(message.chat.id, emoji='🎰')
+        log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), в Казино = {valuedice.dice.value}')
+    elif message.text == "🎲 Кости!":
+        valuedice = bot.send_dice(message.chat.id)
+        log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), в Кости = {valuedice.dice.value}')
+    elif message.text == "Самодельное казино!":
+        markup = keyboard.mark(keyboard.button("Вход"), keyboard.button("Регистрация"), keyboard.button("Назад"), One_time_keyboard = True, Row_width = 2)
+        bot.send_message (ud(message).id, 'Запуск самодельного Казино!', reply_markup=markup)
+        # tprint (message, 'Авторизация:\nЛогин:')
+    elif message.text == "◀️ Назад":
+        welcome(message)
+    elif message.text == "Вход":   
+        tprint (message, 'Авторизация!\nВведите данные.\nЛогин;Пароль')
+        bot.register_next_step_handler(message, initialization)
+    elif message.text == "Регистрация":
+        tprint (message, 'Регистрация!\nВведите данные.\nЛогин;Пароль')
+        bot.register_next_step_handler(message, registrate)
+    elif user.lg is not None and message.text == "🎱 РандоМит":
+        databot = bd(tprint (message, "Запускаем РандоМит"))
+        bet_check(message)
+    elif user.lg is not None and message.text == "🎰 Однорукий Бандит":
+        tprint (message, "Запускаем Однорукого Бандита")
+    elif user.lg is not None and message.text == "🎲 Рулетка":
+        tprint (message, "Запускаем Рулетку")
+    # except NameError:
+        # tprint (message, "Вы ещё не авторизировались!")
 
 
 # print ('Время ожидания, превышено!')
@@ -189,15 +202,10 @@ def registrate (message):
 
 #########################################################
 
-prob = 0 # Пробные попытки авторизации в функции initialization которая объявлена глобальной
-
 def initialization(message):
     global prob
     global user
     if comeback(message):  return
-    if prob == 3:
-        tprint (message, 'Вы не смогли войти!')
-        quit ()
     user = ud(message)
     try:
         user.lg, user.pw = user.tx.split(';')
@@ -207,7 +215,7 @@ def initialization(message):
         return
     cdb.execute (f"SELECT login FROM users WHERE login = '{user.lg}' AND password = '{user.pw}'")
     if cdb.fetchone() is None:
-        tprint (message, f'Некорректные данные, у вас осталось {3 - prob} попыток\nПовторите попытку\nЛогин;Пароль')
+        tprint (message, f'Некорректные данные, повторите попытку\nЛогин;Пароль')
         prob += 1
         bot.register_next_step_handler(message, initialization)
         return
@@ -225,41 +233,60 @@ def play(message):
 
 #########################################################
 
-bet = 0
 def bet_check(message):
-    global bet
-    global botdata
+    global databot
     if not cash_check(user.lg): quit()
     # if 
     #     return
     # else: loc_bet = bet
     markup = keyboard.markinline(keyboard.inlinebut('-10'), 
                                  keyboard.inlinebut('-'), 
-                                 types.InlineKeyboardButton(f'{bet}', callback_data='bet'),
+                                 types.InlineKeyboardButton(f'{databot.bet}', callback_data='bet'),
                                  keyboard.inlinebut('+'), 
                                  keyboard.inlinebut('+10'), Row_width = 5)
     # bot_mes = bot.send_message(user.id, 'КА-ЗИ-НО! РандоМит', reply_markup=markup)
-    botdata = bot.edit_message_text(chat_id = user.id, message_id = message.message_id+1, reply_markup=markup, text='КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
-    
+    # if databot.last_mes is not None: 
+    #     bot.delete_message (user.id, databot.last_mes.message_id)
+    # if databot.last_bet_mes is not None:
+    #     bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=databot.bet_mes.text)
+    # databot.last_bet_mes = databot.bet_mes
+    if databot.bet == 0 and databot.pb == 0:
+        databot.last_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.mes_now.message_id, reply_markup=markup, text=f'КА-ЗИ-НО! РандоМит. Ваша ставка равна = 0')
+        databot.pb += 1
+    if databot.last_bet != databot.bet:
+        databot.last_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.mes_now.message_id, reply_markup=markup, text=f'КА-ЗИ-НО! РандоМит. Ваша ставка равна = {databot.bet}')
+    else: pass
+        
+
 
 def randomid (message):
-    global bet
+    global databot
     cdb.execute (f"SELECT cash from users WHERE login = '{user.lg}'")
     cash = cdb.fetchone()[0]
     # tprint (ud.ms, '\nЕсли наигрались пишите "выход/quit" для выхода')
     fortune = randint (-20, 20)
-    bet_new = (fortune * int(bet) / 10).real    # Метод .real это класс для предоставления вещественныз чисел. На выходе получаем float
+    bet_new = (fortune * int(databot.bet) / 10).real    # Метод .real это класс для предоставления вещественныз чисел. На выходе получаем float
     cash += round (bet_new, 2)
-    if fortune >= 0: 
-        tprint (message, f"Выпало число {fortune}\nВы выйграли: {round(bet_new,2)}\nТеперь ваш баланс равен: {cash:.1f}")
-    elif fortune < 0:
-        tprint (message, f"Выпало число {fortune}\nВы проиграли: {round(bet_new,2)}\nТеперь ваш баланс равен: {cash:.1f}")
+    if databot.last_bet_mes is None:
+        if fortune >= 0: 
+            databot.bet_mes = tprint (message, f"Выпало число {fortune}\nВы выйграли: {round(bet_new,2)} ✅\nТеперь ваш баланс равен: {cash:.1f}")
+        elif fortune < 0:
+            databot.bet_mes = tprint (message, f"Выпало число {fortune}\nВы проиграли: {round(bet_new,2)} ❌\nТеперь ваш баланс равен: {cash:.1f}")
+    else:
+        if fortune >= 0: 
+            bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f"Выпало число {fortune}\nВы выйграли: {round(bet_new,2)} ✅\nТеперь ваш баланс равен: {cash:.1f}")
+        elif fortune < 0:
+            bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f"Выпало число {fortune}\nВы проиграли: {round(bet_new,2)} ❌\nТеперь ваш баланс равен: {cash:.1f}")
+    databot.last_bet_mes = databot.bet_mes
+    log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).un}), {databot.last_bet_mes.text}')
     if cash < 0: zeroing(user.lg)
-    # else:
-        # cdb.execute (f"UPDATE users SET cash = {cash:.1f} WHERE login = '{user.lg}'")
-        # db.commit()
-    # bot.delete_message (user.id, botdata.ms.id)
+    else:
+        cdb.execute (f"UPDATE users SET cash = {cash:.1f} WHERE login = '{user.lg}'")
+        db.commit()
+    # databot.mes_now = tprint (message, "Запуск РандоМит")
     bet_check(message)
+    # bot.delete_message (user.id, botdata.ms.id)
+    # bet_check(message)
 
 
 #########################################################
