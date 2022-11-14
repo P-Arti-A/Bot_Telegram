@@ -32,6 +32,8 @@ class bd:
         self.last_bet_mes = None
         self.ch = 0.15
         self.pb = 0
+        self.mes_value = None
+        self.last_mes_value = None
 # class statemachin:
 #     def __init__(self, state = ''):
 #         self.action = 'action'
@@ -54,7 +56,7 @@ class bd:
 
 bot = telebot.TeleBot(TOKEN)
 
-db = sqlite3.connect ('Telegram_bot/CasinoDataTelegram.db', check_same_thread=False)  # DataBase
+db = sqlite3.connect ('CasinoDataTelegram.db', check_same_thread=False)  # DataBase
 cdb = db.cursor()                       # Cursor of DB
 
                                         # Create table
@@ -114,7 +116,9 @@ def callback_inline(call):
                 case 'slot':
                     slot_machin(user.ms)
                 case 'rulet':
-                    ruletka(user.ms)
+                    markup = keyboard.inlinekeyboard()
+                    databot.last_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_mes.message_id, reply_markup=markup, 
+                    text=f'Выберите число!')
                 case _:
                     tprint (user.ms, 'Игра не выбрана!')
                     play (user.ms)
@@ -133,6 +137,31 @@ def callback_inline(call):
             bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = f'Ваша ставка равна = {databot.bet}', 
             reply_markup = markup) 
             databot.last_bet = databot.bet
+
+@bot.callback_query_handler(func = lambda call: call.data in str(range(1, 37)) or ['1-12', '13-24', '25-36', 'Выбор'])
+def callback_inline(call):
+    global user
+    global databot
+    if call.message:
+        if call.data == ' ': pass 
+        elif call.data == 'Выбор': 
+            try:
+                if databot.last_mes is not None:
+                    bot.delete_message(chat_id = user.id, message_id = databot.last_mes.message_id)
+                    bot.delete_message(chat_id = user.id, message_id = databot.last_mes.message_id+1)
+            except: pass
+            databot = bd(tprint (user.ms, "Запускаем Рулетку"))
+            bet_check (user.ms)
+        elif call.data in str(range(1, 37)) or ['1-12', '13-24', '25-36']:
+            databot.mes_value = call.data
+            if databot.mes_value != databot.last_mes_value:
+        # if call.data != 'bet' and databot.last_bet != databot.bet:
+                markup = keyboard.inlinekeyboard()
+                bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = f'Ваша ставка равна = {databot.mes_value}\nЕсли вы уверены,\nнажмите ещё раз', 
+                reply_markup = markup) 
+                databot.last_mes_value = databot.mes_value
+            else: ruletka(user.ms)
+
 
 @bot.message_handler(content_types=['text'])
 def messaged (message):
@@ -181,6 +210,7 @@ def messaged (message):
             try:
                 if databot.last_mes is not None:
                     bot.delete_message(chat_id = user.id, message_id = databot.last_mes.message_id)
+                    bot.delete_message(chat_id = user.id, message_id = databot.last_mes.message_id-1)
             except: pass
             match message.text:
                 case "🎱 РандоМит":
@@ -193,10 +223,11 @@ def messaged (message):
                     tprint (message, ''.join([f'{i}: {table[i]}X\n' for i in table]))
                     databot = bd(tprint (message, "Запускаем Однорукого Бандита"))
                 case "🎲 Рулетка":
-                    tprint (user.ms, 'В разработке!')
-                    return
-                    # user.pl = 'rulet'
-                    # databot = bd(tprint (message, "Запускаем Рулетку"))
+                    # tprint (user.ms, 'В разработке!')
+                    # return
+                    user.pl = 'rulet'
+                    tprint (message, 'В начале, выбрети ставку, затем выберите число, которое по вашему мнению может выпасть в рулетке.\nЕсли вы угадаете, множители следующие:\nЗа конкретное число: 35Х\nЗа диапозон: 2,5Х')
+                    databot = bd(tprint (message, "Запускаем Рулетку"))
             bet_check(message)
         else: tprint (message, "Нажмите /start для начала работы программы")
     except NameError as e:
@@ -280,7 +311,7 @@ def initialization(message):
 #########################################################
 
 def play(message):
-    markup = keyboard.mark(keyboard.button('РандоМит'), keyboard.button('Бандит'), keyboard.button('Рулетка'), keyboard.button('Назад'), One_time_keyboard = True, Row_width = 1)
+    markup = keyboard.mark(keyboard.button('РандоМит'), keyboard.button('Бандит'), keyboard.button('Рулетка'), keyboard.button('Назад'), One_time_keyboard = True, Row_width = 2)
     tprint (message, '\nВ какую игру сыграем?\n1. РандоМит\n2. Однорукий Бандит\n3. Рулетка', Reply_markup = markup)
     bot.register_next_step_handler(message, messaged)
     return
@@ -289,21 +320,27 @@ def play(message):
 
 def bet_check(message):
     global databot
+    # match user.pl:
+        # case 'random':
     markup = keyboard.markinline(keyboard.inlinebut('-10'), 
-                                 keyboard.inlinebut('-'), 
-                                 types.InlineKeyboardButton(f'{databot.bet}', callback_data='bet'),
-                                 keyboard.inlinebut('+'), 
-                                 keyboard.inlinebut('+10'), Row_width = 5)
+                                keyboard.inlinebut('-'), 
+                                types.InlineKeyboardButton(f'{databot.bet}', callback_data='bet'),
+                                keyboard.inlinebut('+'), 
+                                keyboard.inlinebut('+10'), Row_width = 5)
     if databot.bet == 1 and databot.pb == 0:
         databot.last_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.mes_now.message_id, reply_markup=markup, 
         text=f'Ваша ставка равна = 1')
         databot.pb += 1
-    # if databot.last_bet != databot.bet:
-    #     databot.last_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.mes_now.message_id, reply_markup=markup, 
-    #     text=f'Ваша ставка равна = {databot.bet}')
     else: pass
-        
-
+        # case 'rulet':
+        #     markup = keyboard.inlinekeyboard()
+        #     databot.last_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.mes_now.message_id, reply_markup=markup, 
+        #     text=f'Сделайте вашу ставку')
+            
+# if databot.last_bet != databot.bet:
+#     databot.last_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.mes_now.message_id, reply_markup=markup, 
+#     text=f'Ваша ставка равна = {databot.bet}')
+            
 
 def randomid (message):
     global databot
@@ -322,9 +359,9 @@ def randomid (message):
         #     databot.bet_mes = tprint (message, f"Выпало число {fortune}\nВы проиграли: {round(bet_new,2)} ❌\nТеперь ваш баланс равен: {cash:.1f}")
     # else:
     if fortune >= 0: 
-        databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f"Выпало число {fortune}\nВы выйграли: {round(bet_new,2)} ✅\nТеперь ваш баланс равен: {cash:.1f}")
+        databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f"Выпало число {fortune}\n✅Вы выйграли: {round(bet_new,2)}\nТеперь ваш баланс равен: {cash:.1f}")
     elif fortune < 0:
-        databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f"Выпало число {fortune}\nВы проиграли: {round(bet_new,2)} ❌\nТеперь ваш баланс равен: {cash:.1f}")
+        databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f"Выпало число {fortune}\n❌Вы проиграли\nТеперь ваш баланс равен: {cash:.1f}")
     databot.last_bet_mes = databot.bet_mes
     log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).lg}), {databot.last_bet_mes.text}')
     if cash <= 0: zeroing(user.lg)
@@ -354,15 +391,15 @@ def slot_machin (message):
         if chance [1] == chance [2]: 
             bet_new *= table.get (chance [-1])
             cash += bet_new
-            databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'{" ".join (chance)}\nВы выйграли! {bet_new}\nВаш баланс = {cash:.1f}')
+            databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'{" ".join (chance)}\n✅Вы выйграли! = {bet_new}\nВаш баланс = {cash:.1f}')
             databot.ch = 0.15
         else: 
             cash -= bet_new
-            databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'{" ".join (chance)}\nПочти! Вы проиграли: {bet_new}\nВаш баланс = {cash:.1f}')
+            databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'{" ".join (chance)}\n❌Почти! Вы проиграли\nВаш баланс = {cash:.1f}')
             databot.ch += 0.05
     else: 
         cash -= bet_new
-        databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'{" ".join (chance)}\nПройгрыш! {bet_new}\nВаш баланс = {cash:.1f}')
+        databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'{" ".join (chance)}\n❌Пройгрыш!\nВаш баланс = {cash:.1f}')
         databot.ch += 0.05
     if cash <= 0: zeroing(user.lg)
     else:
@@ -372,64 +409,44 @@ def slot_machin (message):
     log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).lg}), {databot.last_bet_mes.text}')
     bet_check(message)
 
-#########################################################
+########################################################
 
-# def ruletka(user_login):
-#     # prob_init(user_login)
-#     table_rulet = [i for i in range(1, 37)]
-#     table_rulet.extend (['1-12', '13-24', '25-36'])
-#     while True:
-#         tprint (message, '\nНаигрались? Пишите "выход/quit" для выхода')
-#         bet = bet_check (user_login)
-#         if bet is None: continue
-#         # Выведение в терминал стола рулетки
-#         tprint (message, 'Выберите куда поставить вашу ставку:\n')
-#         for i in range (1,37):
-#             if i < 9:
-#                 tprint (i, end='   ')
-#             else: tprint (i, end='  ')
-#             if i % 3 == 0: print()
-#         tprint (message, " ".join (table_rulet [-3:]))
-#         # Проверяем выбор игрока на корректные значения
-#         while True:
-#             try:
-#                 number = input_set()
-#                 if number in table_rulet [-3:]:
-#                     break
-#                 elif number not in table_rulet:
-#                     tprint (message, 'Вы введи некорректный номер!')
-#                     continue
-#                 number = abs(int(number))
-#                 break
-#             except ValueError:
-#                 tprint (message, 'Вы введи некорректный номер!')
-#                 continue
-#         # Выводим число выпавшее на рулетке
-#         cdb.execute (f"SELECT cash from users WHERE login = '{user_login}'")
-#         cash = cdb.fetchone()[0]
-#         tprint (message, 'Выпало число: ') 
-#         rulet = randint (1, 36)
-#         tprint (rulet)
-#         # Проверяем выпавшее число со ставкой
-#         result = 0
-#         if isinstance (number, int): 
-#             if rulet == number:
-#                 result = bet * 35
-#                 print(f'Поздравляем! Вы выйграли: {result}')
-#             else:
-#                 result -= bet
-#                 print(f'Вы проиграли {result}')
-#         else:
-#             number = number.split ('-')
-#             if int(number[0]) <= rulet <= int(number[1]):
-#                 result = bet * 2.5
-#                 print(f'Поздравляем! Вы выйграли: {result}')
-#             else:
-#                 result -= bet
-#                 print(f'Вы проиграли {result}')
-#         cdb.execute (f"UPDATE users SET cash = {cash+result} WHERE login = '{user_login}'")
-#         db.commit()
-#         tprint (f'Ваш баланс: {cash+result}')
+def ruletka(message):
+    if databot.mes_value.find ('-') != -1:
+        chance = [int (f) for f in databot.mes_value.split ('-')]
+        chance = range (chance[0], chance[-1]+1)
+    else: chance = int (databot.mes_value)
+    bet = databot.bet
+    cdb.execute (f"SELECT cash from users WHERE login = '{user.lg}'")
+    cash = cdb.fetchone()[0]
+    rulet = randint (1, 36) 
+    # Проверяем выпавшее число со ставкой
+    result = 0
+    if databot.last_bet_mes is None: databot.last_bet_mes = tprint (message, 'Ваша ставка')
+    # elif databot.last_bet_mes.text == databot.bet_mes.text: return
+    if isinstance (chance, int):    
+        if rulet == chance:
+            result = bet * 35
+            cash += result
+            databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'Выпало число {rulet}\n✅Поздравляем! Вы выйграли: {result:.1f}\nВаш баланс = {cash}')
+        else:
+            result -= bet
+            cash += result
+            databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'Выпало число {rulet}\n❌Вы проиграли\nВаш баланс = {cash}')
+    else:
+        if rulet in chance:
+            result = bet * 2.5
+            cash += result
+            databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'Выпало число {rulet}\n✅Поздравляем! Вы выйграли: {result:.1f}\nВаш баланс = {cash}')
+        else:
+            result -= bet
+            cash += result
+            databot.bet_mes = bot.edit_message_text(chat_id = user.id, message_id = databot.last_bet_mes.message_id, text=f'Выпало число {rulet}\n❌Вы проиграли\nВаш баланс = {cash}')
+    databot.last_bet_mes = databot.bet_mes
+    cdb.execute (f"UPDATE users SET cash = {cash:.1f} WHERE login = '{user.lg}'")
+    db.commit()
+    log.info(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).lg}), {databot.last_bet_mes.text}')
+    bet_check (message)
     
 
 # #########################################################
@@ -569,5 +586,5 @@ def cash_check (user_login):
 # if __name__ == '__main__':
 bot.enable_save_next_step_handlers(delay=2)
 bot.load_next_step_handlers()
-bot.polling(none_stop = True)
+bot.infinity_polling()
 #########################################################
