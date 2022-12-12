@@ -91,7 +91,7 @@ def welcome (message):
     log.critical(f'ID:{ud(message).id}, {ud(message).fn}({ud(message).lg}), исп. команду: {message.text}')
     markup = keyboard.mark(keyboard.button("Казино"), keyboard.button("Кости"), keyboard.button("Моё казино"))
 
-    bot.send_message(ud(message).id, f"Добро пожаловать, {ud(message).fn}!\nЯ - *{bot.get_me().first_name}*, бот созданный чтобы быть подопытным кроликом.",
+    bot.send_message(ud(message).id, f"Добро пожаловать, {ud(message).fn}!\n*{bot.get_me().first_name}* это бот, который поможет заменить вам реальные игровые автоматы, и весело провести время!",
     parse_mode='markdown', reply_markup = markup)
 
 @bot.message_handler(commands=['notification'])
@@ -103,8 +103,8 @@ def notification(message):
         table_t = []
         for t in text:
             t = t.split()
-            if f'ID:{ud(message).id},' in t:
-                t = t[1:3]+t[-4:]
+            if f'ID:{ud(message).id},' in t and "Выпало" in t:
+                t = t[1:3]+t[6:]
                 table_t.append (' '.join(t))
         text = '\n'.join(table_t[-10:])
     
@@ -227,7 +227,7 @@ def messaged (message):
                 tprint (message, 'Авторизация!\nВведите пароль')
                 bot.register_next_step_handler(message, initialization)
         elif message.text == "Регистрация":
-            cdb.execute (f"SELECT login FROM users WHERE user_chat_id = '{userdata.id}'")
+            cdb.execute (f"SELECT password FROM users WHERE user_chat_id = '{userdata.id}'")
             if cdb.fetchone()[0] is not None:  
                 tprint (message, 'Вы уже зарегистрированы\nЕсли вы забыли пароль, обратитесь в службу поддержки: @p_arti_a')
                 return
@@ -407,8 +407,9 @@ def initialization(message):
 #########################################################
 
 def play(message):
+    userdata = wordbook(from_base(message, 'users'))
     markup = keyboard.mark(keyboard.button('РандоМит'), keyboard.button('Бандит'), keyboard.button('Рулетка'), keyboard.button('Назад'), Row_width = 2)
-    tprint (message, '\nВ какую игру сыграем?\n1. РандоМит\n2. Однорукий Бандит\n3. Рулетка', Reply_markup = markup)
+    tprint (message, f'\nВ какую игру сыграем?\n1. РандоМит\n2. Однорукий Бандит\n3. Рулетка\nВаш баланс равен: {userdata.ch}', Reply_markup = markup)
     bot.register_next_step_handler(message, messaged)
     return
 
@@ -471,21 +472,21 @@ def slot_machin (message):
         if chance [1] == chance [2]: 
             bet_new *= table.get (chance [-1])
             userdata.ch += bet_new
-            botdata.bet_mes_id = bot.edit_message_text(chat_id = userdata.id, message_id = botdata.last_bet_mes_id, text=f'{" ".join (chance)}\n✅Вы выйграли! = {bet_new}\nВаш баланс = {userdata.ch:.1f}').id
+            botdata.bet_mes_id = bot.edit_message_text(chat_id = userdata.id, message_id = botdata.last_bet_mes_id, text=f'Выпало {" ".join (chance)}\n✅Вы выйграли! = {bet_new}\nВаш баланс = {userdata.ch:.1f}').id
             botdata.ch = 0.15
         else: 
             userdata.ch -= bet_new
-            botdata.bet_mes_id = bot.edit_message_text(chat_id = userdata.id, message_id = botdata.last_bet_mes_id, text=f'{" ".join (chance)}\n❌Почти! Вы проиграли\nВаш баланс = {userdata.ch:.1f}').id
+            botdata.bet_mes_id = bot.edit_message_text(chat_id = userdata.id, message_id = botdata.last_bet_mes_id, text=f'Выпало {" ".join (chance)}\n❌Почти! Вы проиграли\nВаш баланс = {userdata.ch:.1f}').id
             botdata.ch += 0.05
     else: 
         userdata.ch -= bet_new
-        botdata.bet_mes_id = bot.edit_message_text(chat_id = userdata.id, message_id = botdata.last_bet_mes_id, text=f'{" ".join (chance)}\n❌Пройгрыш!\nВаш баланс = {userdata.ch:.1f}').id
+        botdata.bet_mes_id = bot.edit_message_text(chat_id = userdata.id, message_id = botdata.last_bet_mes_id, text=f'Выпало {" ".join (chance)}\n❌Пройгрыш!\nВаш баланс = {userdata.ch:.1f}').id
         botdata.ch += 0.05
     if userdata.ch <= 0: zeroing(message)
     else:
         botdata.last_bet_mes_id = botdata.bet_mes_id
         base_save_user (message, userdata)
-    log.critical(f'ID:{userdata.id}, {userdata.fn}({userdata.lg}), {" ".join (chance)}, ставка {bet_new}, баланс = {userdata.ch:.1f}')
+    log.critical(f'ID:{userdata.id}, {userdata.fn}({userdata.lg}), Выпало {" ".join (chance)}, ставка {bet_new}, баланс = {userdata.ch:.1f}')
     base_save_bot (message, botdata)
     bet_check(message)
 
@@ -525,7 +526,7 @@ def ruletka(message):
     if userdata.ch <= 0: zeroing(message)
     else:
         base_save_user (message, userdata)
-    log.critical(f'ID:{userdata.id}, {userdata.fn}({userdata.lg}), Выпало число {rulet}, ставили на {chance}, баланс = {userdata.ch:.1f}')
+    log.critical(f'ID:{userdata.id}, {userdata.fn}({userdata.lg}), Выпало число {rulet}, ставили на {botdata.mes_value}, баланс = {userdata.ch:.1f}')
     base_save_bot (message, botdata)
     bet_check (message)
     
